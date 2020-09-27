@@ -2,7 +2,7 @@
 node_modules
 
 # local env variables
-.env
+gelato.env
 
 #buidler
 artifacts/
