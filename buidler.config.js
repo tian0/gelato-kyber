@@ -10,6 +10,7 @@ errors.setLogLevel("error");
 
 // Process Env Variables
 require("dotenv").config();
+
 const INFURA_ID = process.env.DEMO_INFURA_ID;
 const USER_PK = process.env.DEMO_USER_PK;
 const PROVIDER_PK = process.env.DEMO_PROVIDER_PK;
